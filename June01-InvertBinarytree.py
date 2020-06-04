@@ -1,11 +1,3 @@
-#     4
-#   /   \
-#  2     7
-# / \   / \
-#1   3 6   9
-
-
-
 class Solution:
     def invertTree(self, root: TreeNode) -> TreeNode:
         if root:
