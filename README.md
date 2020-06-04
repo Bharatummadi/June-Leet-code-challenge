@@ -1,4 +1,6 @@
 # June-Leet-code-challenge
+
+## Week 1: June 1st- June 7th
 <table style="width:100%">
   <tr>
     <th>Date</th>
