@@ -25,6 +25,10 @@
   <tr>
     <td>June 04</td>
     <td><a href="https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/">Reverse String</td>
-    
+  </tr>
+  
+   <tr>
+    <td>June 05</td>
+    <td><a href="https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3351/">Reverse String</td>
   </tr>
 </table>
