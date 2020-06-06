@@ -10,7 +10,6 @@ class Solution {
         presum[0] = w[0];
         for (int i = 1; i < n; i++) presum[i] = presum[i - 1] + w[i];
     }
-
     public int pickIndex() {
         int r = rand.nextInt(presum[n - 1]) + 1;
         int i = Arrays.binarySearch(presum, r);
