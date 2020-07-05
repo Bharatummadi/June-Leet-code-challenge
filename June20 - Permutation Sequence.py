@@ -14,5 +14,4 @@ class Solution:
             permutation += str(numbers[index])
             # remove handled number
             numbers.remove(numbers[index])
-
         return permutation
